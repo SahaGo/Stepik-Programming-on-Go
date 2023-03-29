@@ -1,4 +1,4 @@
 Cubes
 =====
 
-Cubes is a Minecraft like simulator of its cubes world
+Тестирую фичу
