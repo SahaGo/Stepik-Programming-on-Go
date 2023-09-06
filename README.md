@@ -6,8 +6,8 @@
 
 ## Задание 3.5.13
 ### Поиск файла в заданном формате и его обработка
->![3.5.13](img/3.5.13.png)
-> 
+![3.5.13](img/3.5.13.png)
+>
 >[Ссылка на репозиторий](https://github.com/semyon-dev/stepik-go/tree/master/work_with_files/task_csv_1)
 
 Решение:
@@ -49,8 +49,8 @@ func main() {
 } 
 ```
 ## Задание 3.6.6
-### JSON
->![3.6.6](img/3.6.6.png)
+
+![3.6.6](img/3.6.6.png)
 
 Решение:
 ```go
@@ -105,9 +105,8 @@ func main() {
 	fmt.Print(string(data))
 }
 ```
-## Задание 3.6.9
-### JSON
->![3.6.9](img/3.6.9.png)
+
+![3.6.9](img/3.6.9.png)
 >[Ссылка на репозиторий](https://github.com/semyon-dev/stepik-go/tree/master/work_with_json).
 
 Решение:
@@ -139,8 +138,7 @@ func main() {
 	fmt.Println(count)
 }
 ```
-## Задание 3.7.4
-### Работа с датой и временем
+
 >![3.7.4](img/3.7.4.png)
 
 Решение:
